@@ -19,7 +19,7 @@ The conductive PLA in use is called [Protopasta].
 In addition to this design we also provide a earlier version without the rounded ended spikes, _EEG_electrode.stl_ .
 
 ### Important
-**If you end up using our design please do not forget to reference us by linking [this repository].**
+**If you end up using our design please do not forget to reference us by linking [this repository] along with our names.**
 
 Thank you, and have fun experimenting! If you come up with new ideas for these designs feel free to suggest a pull and/or contact us.
 

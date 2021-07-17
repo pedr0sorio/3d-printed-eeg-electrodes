@@ -6,7 +6,7 @@ These electrode designs were developed within the scope of the [IASB] curricular
  - **[Diogo Antunes]**
  - **[Pedro Osório]**
 
-We based our designs on one from [S. Krachunov et Al] which was for a 3D printed EEG electrode with **conductive coating**. Since our designs were aimed for a coatless solution, we made some relevant changes which are depicted in Figure 1.
+We based our designs on one from [S. Krachunov et Al] (github link [here]) which was for a 3D printed EEG electrode with **conductive coating**. Since our designs were aimed for a coatless solution, we made some relevant changes which are depicted in Figure 1.
 
  <a href="url"><img src=./images/3dmodels_real.png align="center"></a>
 
@@ -34,4 +34,4 @@ Thank you, and have fun experimenting! If you come up with new ideas for these d
    [this repository]: <https://github.com/pedr0sorio/3d-printed-eeg-electrodes>
    [H124SG electrodes]: <https://bio-medical.com/covidien-kendall-disposable-surface-emg-ecg-ekg-electrodes-1-24mm-50pkg.html>
    [Protopasta]: <https://www.proto-pasta.com/pages/conductive-pla/>
-   
+   [here]: <https://github.com/CASSON-lab/3d_printed_eeg_electrodes>
